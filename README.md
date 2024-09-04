@@ -2,14 +2,13 @@
 
 ## Overview
 
-This project is a User Login System built with [insert technology stack here, e.g., Node.js, Express, and MongoDB]. It provides a secure way for users to register, log in, and manage their accounts. The system includes features such as password hashing, session management, and user authentication.
+This project is a User Login System built with Swift UIKit. It provides a secure way for users to register, log in, and admin can manage other's accounts. The system includes features such as password hashing, session management, and user authentication.
 
 ## Features
 
-- User registration with email and password
+- User registration with name, email, contact and password
 - Secure password storage using hashing (e.g., bcrypt)
 - User login and authentication with sessions or tokens
-- Password reset functionality
 - User profile management
 
 ## Technologies Used
@@ -21,6 +20,13 @@ This project is a User Login System built with [insert technology stack here, e.
 - **Other:** [Any other tools or libraries used]
 
 ## Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/mitpatel0044/User-Login-System.git
+   cd User-Login-System
+   ```
 
 1. **Clone the Repository**
 
