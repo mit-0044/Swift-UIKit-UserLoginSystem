@@ -17,6 +17,17 @@ This project is an iOS User Login System implemented using Swift. The system all
 - **Database:** MySQL
 - **Authentication:** Laravel Breeze
 
+## Installation
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/mitpatel0044/User-Login-System.git
+    ```
+
+## Usage
+1. Open the project in Xcode.
+2. Build and run the application on a simulator or a physical device.
+3. Use the provided UI to register, log in, and manage user authentication.
+
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/dc2ca1f5-8991-43cb-8468-f9b5839f3584" width="250">
 <img src="https://github.com/user-attachments/assets/05275b36-be2b-4dd5-a0ea-33d4f5424d09" width="250">
