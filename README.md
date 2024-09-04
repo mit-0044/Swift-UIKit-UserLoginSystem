@@ -1,41 +1,23 @@
-# User Login System
+   # User Login System
 
 ## Overview
 
-This project is a User Login System built with Swift UIKit. It provides a secure way for users to register, log in, and admin can manage other's accounts. The system includes features such as password hashing, session management, and user authentication.
+This project is an iOS User Login System implemented using Swift. The system allows users to register, log in, and manage their profile within the app. It includes secure authentication methods, data validation, and error handling to ensure a smooth user experience.
 
 ## Features
 
-- User registration with name, email, contact and password
-- Secure password storage using hashing (e.g., bcrypt)
-- User login and authentication with sessions or tokens
-- User profile management
+- User registration with name, email, contact and password.
+- User login and authentication with sessions.
+- Only admin can Activate/Deactivate user account(except Admin role).
+- User profile management.
 
-## Technologies Used
+## Technologies Used for API
 
-- **Backend:** [Node.js, Express, etc.]
-- **Database:** [MongoDB, MySQL, etc.]
-- **Authentication:** [JWT, OAuth, etc.]
-- **Frontend:** [React, HTML/CSS, etc.] (if applicable)
-- **Other:** [Any other tools or libraries used]
+- **Backend:** Laravel
+- **Database:** MySQL
+- **Authentication:** Laravel Breeze
 
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/mitpatel0044/User-Login-System.git
-   cd User-Login-System
-   ```
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/mitpatel0044/User-Login-System.git
-   cd User-Login-System
-   ```
-
-
+## Screenshots
 <img src="https://github.com/user-attachments/assets/dc2ca1f5-8991-43cb-8468-f9b5839f3584" width="250">
 <img src="https://github.com/user-attachments/assets/05275b36-be2b-4dd5-a0ea-33d4f5424d09" width="250">
 <img src="https://github.com/user-attachments/assets/7573d968-bbcb-416f-9e51-fcfeec5ea96e" width="250">
