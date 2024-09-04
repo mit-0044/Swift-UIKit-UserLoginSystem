@@ -1,5 +1,27 @@
 # User-Login-System
 
+## Overview
+
+The User Login System is a simple and secure system for managing user authentication and login. This project demonstrates basic login functionalities, including user registration, login, and session management.
+
+## Features
+
+- User Registration: Allows users to create an account with a username and password.
+- User Login: Enables registered users to log in using their credentials.
+- Session Management: Maintains user sessions to keep users logged in across page refreshes.
+- Password Hashing: Uses secure hashing algorithms to protect user passwords.
+
+## Installation
+
+To get started with the User Login System, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/mitpatel0044/User-Login-System.git
+   cd User-Login-System
+
+
 <img src="https://github.com/user-attachments/assets/dc2ca1f5-8991-43cb-8468-f9b5839f3584" width="250">
 <img src="https://github.com/user-attachments/assets/05275b36-be2b-4dd5-a0ea-33d4f5424d09" width="250">
 <img src="https://github.com/user-attachments/assets/7573d968-bbcb-416f-9e51-fcfeec5ea96e" width="250">
